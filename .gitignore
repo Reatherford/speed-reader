@@ -1,0 +1,9 @@
+# Python venv
+venv/
+speedread_env/
+env/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
